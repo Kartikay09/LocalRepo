@@ -24,4 +24,4 @@ class greetingApp:
 
 exe = greetingApp(root)
 root.mainloop() 
-print("bye")
+kartikay
